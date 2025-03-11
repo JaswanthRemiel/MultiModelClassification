@@ -1,8 +1,8 @@
-streamlit==1.25.0
-torch==2.0.1
-torchvision==0.15.2
-tensorflow==2.13.0
-joblib==1.3.2
-pillow==9.5.0
-matplotlib==3.7.1
-requests==2.31.0
+streamlit
+torch
+torchvision
+tensorflow
+joblib
+pillow
+matplotlib
+requests
