@@ -1,4 +1,5 @@
 # MultiModelClassification
+![Image](https://github.com/user-attachments/assets/960508ca-9df5-4d94-9e6b-80773ea47c4b)
 
 A multimodal classification project combining text and image processing. Includes pre-trained models and a streamlined interface for inference.
 
